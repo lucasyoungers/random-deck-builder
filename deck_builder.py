@@ -56,11 +56,44 @@ class Deck:
                         if card["name"] == evolution["evolvesFrom"]]
                 self.deck.append(random.choice(seedlings))
 
+    def add_trainers(self):
+        """Fill the deck with pseudo-random trainers."""
+        get_trainers = lambda subtype: [card for card in self.CARDS
+                if card["subtypes"] is not None
+                and subtype in card["subtypes"]]
+
+        supporters = get_trainers("Supporter")
+        items = get_trainers("Item")
+        stadiums = get_trainers("Stadium")
+
+        for _ in range(8):
+            self.deck.append(random.choice(supporters))
+        
+        for _ in range(16):
+            self.deck.append(random.choice(items))
+
+        for _ in range(4):
+            self.deck.append(random.choice(stadiums))
+
+    def add_energy(self):
+        """Fill the deck with appropriate Energy cards."""
+        # supertype == Energy, subtype == Basic
+        energies = [card for card in self.CARDS
+                if card["supertype"] == "Energy"
+                and card["subtypes"] is not None
+                and "Basic" in card["subtypes"]
+                and self.seed_1["types"][0] in card["name"]]
+        energy = random.choice(energies)
+        for _ in range(12):
+            self.deck.append(energy)
+
     def generate_deck(self) -> None:
         """Generate a deck given an optional seed and secondary seed."""
         self.add_seed(self.seed_1)
         self.add_seed(self.seed_2)
         self.add_prevolutions()
+        self.add_trainers()
+        self.add_energy()
 
     def print(self) -> None:
         """Downloads the deck as a pdf to the current directory."""
