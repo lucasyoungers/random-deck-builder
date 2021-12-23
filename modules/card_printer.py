@@ -1,18 +1,18 @@
 #!/usr/bin/env python3
 
 """
-This program is designed to print proxies of custom Pokémon cards. To use, place the image files, either png or jpg, in the folder, then run the file using python3 with PIL and fpdf installed via pip3.
+This program is designed to print proxies of custom Pokémon cards.
+To use, place the image files, either png or jpg, in the folder,
+then run the file using python3 with PIL and fpdf installed via pip3.
 """
 
 import os
-# import time
-# from PIL import Image
 from fpdf import FPDF
 
 def get_files(path="."):
-  # path = "." + path
   files = os.listdir(path)
-  files = [os.path.join(path, file) for file in files if file[file.rindex('.'):] in (".png", ".jpg", ".jpeg")]
+  files = [os.path.join(path, file) for file in files
+      if file[file.rindex('.'):] in (".png", ".jpg", ".jpeg")]
   return files
 
 def print_files(files, path):
