@@ -30,7 +30,7 @@ def print_files(files, path):
       y = 0.3 + 3.47 * 2
     pdf.image(files[i], x, y, 2.48, 3.46)
   
-  pdf.output(f"{path}/{path}.pdf")
+  pdf.output(f"{path}.pdf")
 
 def main():
   files = get_files()
