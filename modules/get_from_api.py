@@ -1,7 +1,8 @@
 import json
 from pokemontcgsdk import Card, Set, Type, Supertype, Subtype, Rarity, RestClient
+from secrets import API_KEY
 
-RestClient.configure("c41e050c-a701-4cb3-b9c9-737622d51479")
+RestClient.configure(API_KEY)
 
 def get(json_file_name):
     with open(f"api/{json_file_name}.json", "w") as file:
