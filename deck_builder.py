@@ -13,22 +13,42 @@ from modules.secrets import API_KEY
 
 
 class Deck:
-    CARDS = [] # reference to full card database
-    with open("api/cards.json", "r") as file:
-        CARDS = json.load(file)
-
-    def __init__(self, seed_1: dict=None, seed_2: dict=None) -> None:
+    def __init__(self, seed_1: dict=None, seed_2: dict=None,
+            format: str="unlimited") -> None:
         self.deck = []
 
+        # change legality of deck based on passed seed
+        if not format and ((seed_1 is not None
+                and seed_1["legalities"]["unlimited"] == "Legal")
+                or (seed_2 is not None
+                and seed_2["legalities"]["unlimited"] == "Legal")):
+            format = "unlimited"
+        elif not format and ((seed_1 is not None
+                and seed_1["legalities"]["expanded"] == "Legal")
+                or (seed_2 is not None
+                and seed_2["legalities"]["expanded"] == "Legal")):
+            format = "expanded"
+        else:
+            format = format.lower()
+
+        # curate card pool based on format
+        all_cards = []
+        with open("api/cards.json", "r") as file:
+            all_cards = json.load(file)
+        self.cards = [card for card in all_cards
+                if card["legalities"][format] == "Legal"]
+
+        # randomly generate a main seed if necessary
         if seed_1 is None:
-            stage_2 = [card for card in self.CARDS
+            stage_2 = [card for card in self.cards
                     if card["subtypes"] is not None
                     and "Stage 2" in card["subtypes"]]
             seed_1 = random.choice(stage_2)
         self.seed_1 = seed_1
 
+        # randomly generate a secondary seed if necessary
         if seed_2 is None:
-            stage_1 = [card for card in self.CARDS
+            stage_1 = [card for card in self.cards
                     if card["types"] is not None
                     and self.seed_1["types"][0] in card["types"]
                     and card["subtypes"] is not None
@@ -39,7 +59,7 @@ class Deck:
     def add_seed(self, seed: dict) -> None:
         """Fill the deck with four cards based on a seed."""
         self.deck.append(seed)
-        seeds = [card for card in self.CARDS
+        seeds = [card for card in self.cards
                 if card["name"] == seed["name"]
                 or card["evolvesFrom"] == seed["evolvesFrom"] is not None]
         for _ in range(3):
@@ -52,13 +72,13 @@ class Deck:
         """
         for evolution in self.deck:
             if evolution["evolvesFrom"] is not None:
-                seedlings = [card for card in self.CARDS
+                seedlings = [card for card in self.cards
                         if card["name"] == evolution["evolvesFrom"]]
                 self.deck.append(random.choice(seedlings))
 
     def add_trainers(self):
         """Fill the deck with pseudo-random trainers."""
-        get_trainers = lambda subtype: [card for card in self.CARDS
+        get_trainers = lambda subtype: [card for card in self.cards
                 if card["subtypes"] is not None
                 and subtype in card["subtypes"]]
 
@@ -78,7 +98,7 @@ class Deck:
     def add_energy(self):
         """Fill the deck with appropriate Energy cards."""
         # supertype == Energy, subtype == Basic
-        energies = [card for card in self.CARDS
+        energies = [card for card in self.cards
                 if card["supertype"] == "Energy"
                 and card["subtypes"] is not None
                 and "Basic" in card["subtypes"]
