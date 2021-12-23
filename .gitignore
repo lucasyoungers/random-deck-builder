@@ -1,2 +1,3 @@
 # ignore secrets file
 secrets.py
+*.pdf
