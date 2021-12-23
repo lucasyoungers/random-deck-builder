@@ -4,7 +4,7 @@ from pokemontcgsdk import Card, Set, Type, Supertype, Subtype, Rarity, RestClien
 RestClient.configure("c41e050c-a701-4cb3-b9c9-737622d51479")
 
 def get(json_file_name):
-    with open(f"{json_file_name}.json", "w") as file:
+    with open(f"api/{json_file_name}.json", "w") as file:
         obj = None
         if json_file_name == "cards":
             obj = Card.all()
