@@ -1,0 +1,2548 @@
+[
+    {
+        "id": "base1",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+            "logo": "https://images.pokemontcg.io/base1/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Base",
+        "printedTotal": 102,
+        "ptcgoCode": "BS",
+        "releaseDate": "1999/01/09",
+        "series": "Base",
+        "total": 102,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "base2",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/base2/symbol.png",
+            "logo": "https://images.pokemontcg.io/base2/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Jungle",
+        "printedTotal": 64,
+        "ptcgoCode": "JU",
+        "releaseDate": "1999/06/16",
+        "series": "Base",
+        "total": 64,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "basep",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/basep/symbol.png",
+            "logo": "https://images.pokemontcg.io/basep/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Wizards Black Star Promos",
+        "printedTotal": 53,
+        "ptcgoCode": "PR",
+        "releaseDate": "1999/07/01",
+        "series": "Base",
+        "total": 53,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "base3",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+            "logo": "https://images.pokemontcg.io/base3/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Fossil",
+        "printedTotal": 62,
+        "ptcgoCode": "FO",
+        "releaseDate": "1999/10/10",
+        "series": "Base",
+        "total": 62,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "base4",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/base4/symbol.png",
+            "logo": "https://images.pokemontcg.io/base4/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Base Set 2",
+        "printedTotal": 130,
+        "ptcgoCode": "B2",
+        "releaseDate": "2000/02/24",
+        "series": "Base",
+        "total": 130,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "base5",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/base5/symbol.png",
+            "logo": "https://images.pokemontcg.io/base5/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Team Rocket",
+        "printedTotal": 82,
+        "ptcgoCode": "TR",
+        "releaseDate": "2000/04/24",
+        "series": "Base",
+        "total": 83,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "gym1",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/gym1/symbol.png",
+            "logo": "https://images.pokemontcg.io/gym1/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Gym Heroes",
+        "printedTotal": 132,
+        "ptcgoCode": "G1",
+        "releaseDate": "2000/08/14",
+        "series": "Gym",
+        "total": 132,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "gym2",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/gym2/symbol.png",
+            "logo": "https://images.pokemontcg.io/gym2/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Gym Challenge",
+        "printedTotal": 132,
+        "ptcgoCode": "G2",
+        "releaseDate": "2000/10/16",
+        "series": "Gym",
+        "total": 132,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "neo1",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/neo1/symbol.png",
+            "logo": "https://images.pokemontcg.io/neo1/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Neo Genesis",
+        "printedTotal": 111,
+        "ptcgoCode": "N1",
+        "releaseDate": "2000/12/16",
+        "series": "Neo",
+        "total": 111,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "neo2",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/neo2/symbol.png",
+            "logo": "https://images.pokemontcg.io/neo2/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Neo Discovery",
+        "printedTotal": 75,
+        "ptcgoCode": "N2",
+        "releaseDate": "2001/06/01",
+        "series": "Neo",
+        "total": 75,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "si1",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/si1/symbol.png",
+            "logo": "https://images.pokemontcg.io/si1/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Southern Islands",
+        "printedTotal": 18,
+        "ptcgoCode": null,
+        "releaseDate": "2001/07/31",
+        "series": "Other",
+        "total": 18,
+        "updatedAt": "2019/01/28 16:44:00"
+    },
+    {
+        "id": "neo3",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/neo3/symbol.png",
+            "logo": "https://images.pokemontcg.io/neo3/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Neo Revelation",
+        "printedTotal": 66,
+        "ptcgoCode": "N3",
+        "releaseDate": "2001/09/21",
+        "series": "Neo",
+        "total": 66,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "neo4",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/neo4/symbol.png",
+            "logo": "https://images.pokemontcg.io/neo4/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Neo Destiny",
+        "printedTotal": 113,
+        "ptcgoCode": "N4",
+        "releaseDate": "2002/02/28",
+        "series": "Neo",
+        "total": 113,
+        "updatedAt": "2020/09/25 10:09:00"
+    },
+    {
+        "id": "base6",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/base6/symbol.png",
+            "logo": "https://images.pokemontcg.io/base6/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Legendary Collection",
+        "printedTotal": 110,
+        "ptcgoCode": "LC",
+        "releaseDate": "2002/05/24",
+        "series": "Other",
+        "total": 110,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "ecard1",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/ecard1/symbol.png",
+            "logo": "https://images.pokemontcg.io/ecard1/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Expedition Base Set",
+        "printedTotal": 165,
+        "ptcgoCode": "EX",
+        "releaseDate": "2002/09/15",
+        "series": "E-Card",
+        "total": 165,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "ecard2",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/ecard2/symbol.png",
+            "logo": "https://images.pokemontcg.io/ecard2/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Aquapolis",
+        "printedTotal": 147,
+        "ptcgoCode": "AQ",
+        "releaseDate": "2003/01/15",
+        "series": "E-Card",
+        "total": 182,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "ecard3",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/ecard3/symbol.png",
+            "logo": "https://images.pokemontcg.io/ecard3/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Skyridge",
+        "printedTotal": 182,
+        "ptcgoCode": "SK",
+        "releaseDate": "2003/05/12",
+        "series": "E-Card",
+        "total": 182,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "ex1",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/ex1/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex1/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Ruby & Sapphire",
+        "printedTotal": 109,
+        "ptcgoCode": "RS",
+        "releaseDate": "2003/07/01",
+        "series": "EX",
+        "total": 109,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "ex2",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/ex2/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex2/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Sandstorm",
+        "printedTotal": 100,
+        "ptcgoCode": "SS",
+        "releaseDate": "2003/09/18",
+        "series": "EX",
+        "total": 100,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "ex3",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/ex3/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex3/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Dragon",
+        "printedTotal": 97,
+        "ptcgoCode": "DR",
+        "releaseDate": "2003/09/18",
+        "series": "EX",
+        "total": 100,
+        "updatedAt": "2019/01/28 16:44:00"
+    },
+    {
+        "id": "np",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/np/symbol.png",
+            "logo": "https://images.pokemontcg.io/np/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Nintendo Black Star Promos",
+        "printedTotal": 40,
+        "ptcgoCode": "PR-NP",
+        "releaseDate": "2003/10/01",
+        "series": "NP",
+        "total": 40,
+        "updatedAt": "2020/05/01 16:06:00"
+    },
+    {
+        "id": "ex4",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/ex4/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex4/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Team Magma vs Team Aqua",
+        "printedTotal": 95,
+        "ptcgoCode": "MA",
+        "releaseDate": "2004/03/01",
+        "series": "EX",
+        "total": 97,
+        "updatedAt": "2019/01/28 16:44:00"
+    },
+    {
+        "id": "ex5",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/ex5/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex5/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Hidden Legends",
+        "printedTotal": 101,
+        "ptcgoCode": "HL",
+        "releaseDate": "2004/06/01",
+        "series": "EX",
+        "total": 102,
+        "updatedAt": "2019/01/28 16:44:00"
+    },
+    {
+        "id": "ex6",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/ex6/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex6/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "FireRed & LeafGreen",
+        "printedTotal": 112,
+        "ptcgoCode": "RG",
+        "releaseDate": "2004/09/01",
+        "series": "EX",
+        "total": 116,
+        "updatedAt": "2019/01/28 16:44:00"
+    },
+    {
+        "id": "pop1",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/pop1/symbol.png",
+            "logo": "https://images.pokemontcg.io/pop1/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "POP Series 1",
+        "printedTotal": 17,
+        "ptcgoCode": null,
+        "releaseDate": "2004/09/01",
+        "series": "POP",
+        "total": 17,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "ex7",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/ex7/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex7/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Team Rocket Returns",
+        "printedTotal": 109,
+        "ptcgoCode": "TRR",
+        "releaseDate": "2004/11/01",
+        "series": "EX",
+        "total": 111,
+        "updatedAt": "2019/01/28 16:44:00"
+    },
+    {
+        "id": "ex8",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/ex8/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex8/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Deoxys",
+        "printedTotal": 107,
+        "ptcgoCode": "DX",
+        "releaseDate": "2005/02/01",
+        "series": "EX",
+        "total": 108,
+        "updatedAt": "2019/01/28 16:44:00"
+    },
+    {
+        "id": "ex9",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/ex9/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex9/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Emerald",
+        "printedTotal": 106,
+        "ptcgoCode": "EM",
+        "releaseDate": "2005/05/01",
+        "series": "EX",
+        "total": 107,
+        "updatedAt": "2020/02/08 09:00:00"
+    },
+    {
+        "id": "ex10",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/ex10/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex10/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Unseen Forces",
+        "printedTotal": 115,
+        "ptcgoCode": "UF",
+        "releaseDate": "2005/08/01",
+        "series": "EX",
+        "total": 145,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "pop2",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/pop2/symbol.png",
+            "logo": "https://images.pokemontcg.io/pop2/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "POP Series 2",
+        "printedTotal": 17,
+        "ptcgoCode": null,
+        "releaseDate": "2005/08/01",
+        "series": "POP",
+        "total": 17,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "ex11",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/ex11/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex11/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Delta Species",
+        "printedTotal": 113,
+        "ptcgoCode": "DS",
+        "releaseDate": "2005/10/31",
+        "series": "EX",
+        "total": 114,
+        "updatedAt": "2020/05/01 16:06:00"
+    },
+    {
+        "id": "ex12",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/ex12/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex12/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Legend Maker",
+        "printedTotal": 92,
+        "ptcgoCode": "LM",
+        "releaseDate": "2006/02/01",
+        "series": "EX",
+        "total": 93,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "pop3",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/pop3/symbol.png",
+            "logo": "https://images.pokemontcg.io/pop3/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "POP Series 3",
+        "printedTotal": 17,
+        "ptcgoCode": null,
+        "releaseDate": "2006/04/01",
+        "series": "POP",
+        "total": 17,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "ex13",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/ex13/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex13/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Holon Phantoms",
+        "printedTotal": 110,
+        "ptcgoCode": "HP",
+        "releaseDate": "2006/05/01",
+        "series": "EX",
+        "total": 111,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "ex14",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/ex14/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex14/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Crystal Guardians",
+        "printedTotal": 100,
+        "ptcgoCode": "CG",
+        "releaseDate": "2006/08/01",
+        "series": "EX",
+        "total": 100,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "pop4",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/pop4/symbol.png",
+            "logo": "https://images.pokemontcg.io/pop4/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "POP Series 4",
+        "printedTotal": 17,
+        "ptcgoCode": null,
+        "releaseDate": "2006/08/01",
+        "series": "POP",
+        "total": 17,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "ex15",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/ex15/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex15/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Dragon Frontiers",
+        "printedTotal": 101,
+        "ptcgoCode": "DF",
+        "releaseDate": "2006/11/01",
+        "series": "EX",
+        "total": 101,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "pop5",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/pop5/symbol.png",
+            "logo": "https://images.pokemontcg.io/pop5/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "POP Series 5",
+        "printedTotal": 17,
+        "ptcgoCode": null,
+        "releaseDate": "2007/03/01",
+        "series": "POP",
+        "total": 17,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "ex16",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/ex16/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex16/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Power Keepers",
+        "printedTotal": 108,
+        "ptcgoCode": "PK",
+        "releaseDate": "2007/02/02",
+        "series": "EX",
+        "total": 108,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "dp1",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/dp1/symbol.png",
+            "logo": "https://images.pokemontcg.io/dp1/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Diamond & Pearl",
+        "printedTotal": 130,
+        "ptcgoCode": "DP",
+        "releaseDate": "2007/05/01",
+        "series": "Diamond & Pearl",
+        "total": 130,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "dpp",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/dpp/symbol.png",
+            "logo": "https://images.pokemontcg.io/dpp/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "DP Black Star Promos",
+        "printedTotal": 56,
+        "ptcgoCode": "PR-DPP",
+        "releaseDate": "2007/05/01",
+        "series": "Diamond & Pearl",
+        "total": 56,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "dp2",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/dp2/symbol.png",
+            "logo": "https://images.pokemontcg.io/dp2/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Mysterious Treasures",
+        "printedTotal": 123,
+        "ptcgoCode": "MT",
+        "releaseDate": "2007/08/01",
+        "series": "Diamond & Pearl",
+        "total": 124,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "pop6",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/pop6/symbol.png",
+            "logo": "https://images.pokemontcg.io/pop6/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "POP Series 6",
+        "printedTotal": 17,
+        "ptcgoCode": null,
+        "releaseDate": "2007/09/01",
+        "series": "POP",
+        "total": 17,
+        "updatedAt": "2020/05/01 16:06:00"
+    },
+    {
+        "id": "dp3",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/dp3/symbol.png",
+            "logo": "https://images.pokemontcg.io/dp3/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Secret Wonders",
+        "printedTotal": 132,
+        "ptcgoCode": "SW",
+        "releaseDate": "2007/11/01",
+        "series": "Diamond & Pearl",
+        "total": 132,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "dp4",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/dp4/symbol.png",
+            "logo": "https://images.pokemontcg.io/dp4/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Great Encounters",
+        "printedTotal": 106,
+        "ptcgoCode": "GE",
+        "releaseDate": "2008/02/01",
+        "series": "Diamond & Pearl",
+        "total": 106,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "pop7",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/pop7/symbol.png",
+            "logo": "https://images.pokemontcg.io/pop7/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "POP Series 7",
+        "printedTotal": 17,
+        "ptcgoCode": null,
+        "releaseDate": "2008/03/01",
+        "series": "POP",
+        "total": 17,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "dp5",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/dp5/symbol.png",
+            "logo": "https://images.pokemontcg.io/dp5/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Majestic Dawn",
+        "printedTotal": 100,
+        "ptcgoCode": "MD",
+        "releaseDate": "2008/05/01",
+        "series": "Diamond & Pearl",
+        "total": 100,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "dp6",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/dp6/symbol.png",
+            "logo": "https://images.pokemontcg.io/dp6/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Legends Awakened",
+        "printedTotal": 146,
+        "ptcgoCode": "LA",
+        "releaseDate": "2008/08/01",
+        "series": "Diamond & Pearl",
+        "total": 146,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "pop8",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/pop8/symbol.png",
+            "logo": "https://images.pokemontcg.io/pop8/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "POP Series 8",
+        "printedTotal": 17,
+        "ptcgoCode": null,
+        "releaseDate": "2008/09/01",
+        "series": "POP",
+        "total": 17,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "dp7",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/dp7/symbol.png",
+            "logo": "https://images.pokemontcg.io/dp7/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Stormfront",
+        "printedTotal": 100,
+        "ptcgoCode": "SF",
+        "releaseDate": "2008/11/01",
+        "series": "Diamond & Pearl",
+        "total": 106,
+        "updatedAt": "2020/05/01 16:06:00"
+    },
+    {
+        "id": "pl1",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/pl1/symbol.png",
+            "logo": "https://images.pokemontcg.io/pl1/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Platinum",
+        "printedTotal": 127,
+        "ptcgoCode": "PL",
+        "releaseDate": "2009/02/11",
+        "series": "Platinum",
+        "total": 133,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "pop9",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/pop9/symbol.png",
+            "logo": "https://images.pokemontcg.io/pop9/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "POP Series 9",
+        "printedTotal": 17,
+        "ptcgoCode": null,
+        "releaseDate": "2009/03/01",
+        "series": "POP",
+        "total": 17,
+        "updatedAt": "2020/05/01 16:06:00"
+    },
+    {
+        "id": "pl2",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/pl2/symbol.png",
+            "logo": "https://images.pokemontcg.io/pl2/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Rising Rivals",
+        "printedTotal": 111,
+        "ptcgoCode": "RR",
+        "releaseDate": "2009/05/16",
+        "series": "Platinum",
+        "total": 120,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "pl3",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/pl3/symbol.png",
+            "logo": "https://images.pokemontcg.io/pl3/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Supreme Victors",
+        "printedTotal": 147,
+        "ptcgoCode": "SV",
+        "releaseDate": "2009/08/19",
+        "series": "Platinum",
+        "total": 153,
+        "updatedAt": "2018/03/07 22:40:00"
+    },
+    {
+        "id": "pl4",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/pl4/symbol.png",
+            "logo": "https://images.pokemontcg.io/pl4/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Arceus",
+        "printedTotal": 99,
+        "ptcgoCode": "AR",
+        "releaseDate": "2009/11/04",
+        "series": "Platinum",
+        "total": 111,
+        "updatedAt": "2021/07/15 11:30:00"
+    },
+    {
+        "id": "ru1",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
+            "logo": "https://images.pokemontcg.io/ru1/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Pok\u00e9mon Rumble",
+        "printedTotal": 16,
+        "ptcgoCode": null,
+        "releaseDate": "2009/12/02",
+        "series": "Other",
+        "total": 16,
+        "updatedAt": "2019/01/28 16:44:00"
+    },
+    {
+        "id": "hgss1",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/hgss1/symbol.png",
+            "logo": "https://images.pokemontcg.io/hgss1/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "HeartGold & SoulSilver",
+        "printedTotal": 123,
+        "ptcgoCode": "HS",
+        "releaseDate": "2010/02/10",
+        "series": "HeartGold & SoulSilver",
+        "total": 124,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "hsp",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/hsp/symbol.png",
+            "logo": "https://images.pokemontcg.io/hsp/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "HGSS Black Star Promos",
+        "printedTotal": 25,
+        "ptcgoCode": "PR-HS",
+        "releaseDate": "2010/02/10",
+        "series": "HeartGold & SoulSilver",
+        "total": 25,
+        "updatedAt": "2019/01/28 16:44:00"
+    },
+    {
+        "id": "hgss2",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/hgss2/symbol.png",
+            "logo": "https://images.pokemontcg.io/hgss2/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "HS\u2014Unleashed",
+        "printedTotal": 95,
+        "ptcgoCode": "UL",
+        "releaseDate": "2010/05/12",
+        "series": "HeartGold & SoulSilver",
+        "total": 96,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "hgss3",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/hgss3/symbol.png",
+            "logo": "https://images.pokemontcg.io/hgss3/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "HS\u2014Undaunted",
+        "printedTotal": 90,
+        "ptcgoCode": "UD",
+        "releaseDate": "2010/08/18",
+        "series": "HeartGold & SoulSilver",
+        "total": 91,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "hgss4",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/hgss4/symbol.png",
+            "logo": "https://images.pokemontcg.io/hgss4/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "HS\u2014Triumphant",
+        "printedTotal": 102,
+        "ptcgoCode": "TM",
+        "releaseDate": "2010/11/03",
+        "series": "HeartGold & SoulSilver",
+        "total": 103,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "col1",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/col1/symbol.png",
+            "logo": "https://images.pokemontcg.io/col1/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Call of Legends",
+        "printedTotal": 106,
+        "ptcgoCode": "CL",
+        "releaseDate": "2011/02/09",
+        "series": "HeartGold & SoulSilver",
+        "total": 106,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "bwp",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/bwp/symbol.png",
+            "logo": "https://images.pokemontcg.io/bwp/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "BW Black Star Promos",
+        "printedTotal": 101,
+        "ptcgoCode": "PR-BLW",
+        "releaseDate": "2011/03/01",
+        "series": "Black & White",
+        "total": 101,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "bw1",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/bw1/symbol.png",
+            "logo": "https://images.pokemontcg.io/bw1/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Black & White",
+        "printedTotal": 114,
+        "ptcgoCode": "BLW",
+        "releaseDate": "2011/04/25",
+        "series": "Black & White",
+        "total": 115,
+        "updatedAt": "2018/11/29 19:56:00"
+    },
+    {
+        "id": "mcd11",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/mcd11/symbol.png",
+            "logo": "https://images.pokemontcg.io/mcd11/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "McDonald's Collection 2011",
+        "printedTotal": 12,
+        "ptcgoCode": null,
+        "releaseDate": "2011/06/17",
+        "series": "Other",
+        "total": 12,
+        "updatedAt": "2021/09/01 05:37:00"
+    },
+    {
+        "id": "bw2",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/bw2/symbol.png",
+            "logo": "https://images.pokemontcg.io/bw2/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Emerging Powers",
+        "printedTotal": 98,
+        "ptcgoCode": "EPO",
+        "releaseDate": "2011/08/31",
+        "series": "Black & White",
+        "total": 98,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "bw3",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/bw3/symbol.png",
+            "logo": "https://images.pokemontcg.io/bw3/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Noble Victories",
+        "printedTotal": 101,
+        "ptcgoCode": "NVI",
+        "releaseDate": "2011/11/16",
+        "series": "Black & White",
+        "total": 102,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "bw4",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/bw4/symbol.png",
+            "logo": "https://images.pokemontcg.io/bw4/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Next Destinies",
+        "printedTotal": 99,
+        "ptcgoCode": "NXD",
+        "releaseDate": "2012/02/08",
+        "series": "Black & White",
+        "total": 103,
+        "updatedAt": "2019/01/28 16:44:00"
+    },
+    {
+        "id": "bw5",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/bw5/symbol.png",
+            "logo": "https://images.pokemontcg.io/bw5/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Dark Explorers",
+        "printedTotal": 108,
+        "ptcgoCode": "DEX",
+        "releaseDate": "2012/05/09",
+        "series": "Black & White",
+        "total": 111,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "mcd12",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/mcd12/symbol.png",
+            "logo": "https://images.pokemontcg.io/mcd12/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "McDonald's Collection 2012",
+        "printedTotal": 12,
+        "ptcgoCode": null,
+        "releaseDate": "2012/06/15",
+        "series": "Other",
+        "total": 12,
+        "updatedAt": "2021/09/01 05:37:00"
+    },
+    {
+        "id": "bw6",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/bw6/symbol.png",
+            "logo": "https://images.pokemontcg.io/bw6/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Dragons Exalted",
+        "printedTotal": 124,
+        "ptcgoCode": "DRX",
+        "releaseDate": "2012/08/15",
+        "series": "Black & White",
+        "total": 128,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "dv1",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/dv1/symbol.png",
+            "logo": "https://images.pokemontcg.io/dv1/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Dragon Vault",
+        "printedTotal": 20,
+        "ptcgoCode": "DRV",
+        "releaseDate": "2012/10/05",
+        "series": "Black & White",
+        "total": 21,
+        "updatedAt": "2019/01/28 16:44:00"
+    },
+    {
+        "id": "bw7",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/bw7/symbol.png",
+            "logo": "https://images.pokemontcg.io/bw7/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Boundaries Crossed",
+        "printedTotal": 149,
+        "ptcgoCode": "BCR",
+        "releaseDate": "2012/11/07",
+        "series": "Black & White",
+        "total": 153,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "bw8",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/bw8/symbol.png",
+            "logo": "https://images.pokemontcg.io/bw8/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Plasma Storm",
+        "printedTotal": 135,
+        "ptcgoCode": "PLS",
+        "releaseDate": "2013/02/06",
+        "series": "Black & White",
+        "total": 138,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "bw9",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/bw9/symbol.png",
+            "logo": "https://images.pokemontcg.io/bw9/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Plasma Freeze",
+        "printedTotal": 116,
+        "ptcgoCode": "PLF",
+        "releaseDate": "2013/05/08",
+        "series": "Black & White",
+        "total": 122,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "bw10",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/bw10/symbol.png",
+            "logo": "https://images.pokemontcg.io/bw10/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Plasma Blast",
+        "printedTotal": 101,
+        "ptcgoCode": "PLB",
+        "releaseDate": "2013/08/14",
+        "series": "Black & White",
+        "total": 105,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "xyp",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+            "logo": "https://images.pokemontcg.io/xyp/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "XY Black Star Promos",
+        "printedTotal": 211,
+        "ptcgoCode": "PR-XY",
+        "releaseDate": "2013/10/12",
+        "series": "XY",
+        "total": 216,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "bw11",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/bw11/symbol.png",
+            "logo": "https://images.pokemontcg.io/bw11/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Legendary Treasures",
+        "printedTotal": 113,
+        "ptcgoCode": "LTR",
+        "releaseDate": "2013/11/06",
+        "series": "Black & White",
+        "total": 140,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "xy0",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/xy0/symbol.png",
+            "logo": "https://images.pokemontcg.io/xy0/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Kalos Starter Set",
+        "printedTotal": 39,
+        "ptcgoCode": "KSS",
+        "releaseDate": "2013/11/08",
+        "series": "XY",
+        "total": 39,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "xy1",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+            "logo": "https://images.pokemontcg.io/xy1/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "XY",
+        "printedTotal": 146,
+        "ptcgoCode": "XY",
+        "releaseDate": "2014/02/05",
+        "series": "XY",
+        "total": 146,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "xy2",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/xy2/symbol.png",
+            "logo": "https://images.pokemontcg.io/xy2/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Flashfire",
+        "printedTotal": 106,
+        "ptcgoCode": "FLF",
+        "releaseDate": "2014/05/07",
+        "series": "XY",
+        "total": 110,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "xy3",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/xy3/symbol.png",
+            "logo": "https://images.pokemontcg.io/xy3/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Furious Fists",
+        "printedTotal": 111,
+        "ptcgoCode": "FFI",
+        "releaseDate": "2014/08/13",
+        "series": "XY",
+        "total": 114,
+        "updatedAt": "2018/03/04 10:35:00"
+    },
+    {
+        "id": "xy4",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/xy4/symbol.png",
+            "logo": "https://images.pokemontcg.io/xy4/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Phantom Forces",
+        "printedTotal": 119,
+        "ptcgoCode": "PHF",
+        "releaseDate": "2014/11/05",
+        "series": "XY",
+        "total": 124,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "xy5",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/xy5/symbol.png",
+            "logo": "https://images.pokemontcg.io/xy5/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Primal Clash",
+        "printedTotal": 160,
+        "ptcgoCode": "PRC",
+        "releaseDate": "2015/02/04",
+        "series": "XY",
+        "total": 164,
+        "updatedAt": "2020/05/01 16:06:00"
+    },
+    {
+        "id": "dc1",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
+            "logo": "https://images.pokemontcg.io/dc1/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Double Crisis",
+        "printedTotal": 34,
+        "ptcgoCode": "DCR",
+        "releaseDate": "2015/03/25",
+        "series": "XY",
+        "total": 34,
+        "updatedAt": "2019/01/28 16:44:00"
+    },
+    {
+        "id": "xy6",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/xy6/symbol.png",
+            "logo": "https://images.pokemontcg.io/xy6/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Roaring Skies",
+        "printedTotal": 108,
+        "ptcgoCode": "ROS",
+        "releaseDate": "2015/05/06",
+        "series": "XY",
+        "total": 112,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "xy7",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/xy7/symbol.png",
+            "logo": "https://images.pokemontcg.io/xy7/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Ancient Origins",
+        "printedTotal": 98,
+        "ptcgoCode": "AOR",
+        "releaseDate": "2015/08/12",
+        "series": "XY",
+        "total": 100,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "xy8",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/xy8/symbol.png",
+            "logo": "https://images.pokemontcg.io/xy8/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "BREAKthrough",
+        "printedTotal": 162,
+        "ptcgoCode": "BKT",
+        "releaseDate": "2015/11/04",
+        "series": "XY",
+        "total": 165,
+        "updatedAt": "2019/04/10 19:59:00"
+    },
+    {
+        "id": "xy9",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/xy9/symbol.png",
+            "logo": "https://images.pokemontcg.io/xy9/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "BREAKpoint",
+        "printedTotal": 122,
+        "ptcgoCode": "BKP",
+        "releaseDate": "2016/02/03",
+        "series": "XY",
+        "total": 126,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "g1",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/g1/symbol.png",
+            "logo": "https://images.pokemontcg.io/g1/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Generations",
+        "printedTotal": 115,
+        "ptcgoCode": "GEN",
+        "releaseDate": "2016/02/22",
+        "series": "XY",
+        "total": 117,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "xy10",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+            "logo": "https://images.pokemontcg.io/xy10/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Fates Collide",
+        "printedTotal": 124,
+        "ptcgoCode": "FCO",
+        "releaseDate": "2016/05/02",
+        "series": "XY",
+        "total": 129,
+        "updatedAt": "2018/09/03 11:49:00"
+    },
+    {
+        "id": "xy11",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/xy11/symbol.png",
+            "logo": "https://images.pokemontcg.io/xy11/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Steam Siege",
+        "printedTotal": 114,
+        "ptcgoCode": "STS",
+        "releaseDate": "2016/08/03",
+        "series": "XY",
+        "total": 116,
+        "updatedAt": "2019/04/10 19:59:00"
+    },
+    {
+        "id": "mcd16",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/mcd16/symbol.png",
+            "logo": "https://images.pokemontcg.io/mcd16/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "McDonald's Collection 2016",
+        "printedTotal": 12,
+        "ptcgoCode": null,
+        "releaseDate": "2016/08/19",
+        "series": "Other",
+        "total": 12,
+        "updatedAt": "2021/09/01 05:37:00"
+    },
+    {
+        "id": "xy12",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+            "logo": "https://images.pokemontcg.io/xy12/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Evolutions",
+        "printedTotal": 108,
+        "ptcgoCode": "EVO",
+        "releaseDate": "2016/11/02",
+        "series": "XY",
+        "total": 113,
+        "updatedAt": "2020/09/25 10:09:00"
+    },
+    {
+        "id": "sm1",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
+            "logo": "https://images.pokemontcg.io/sm1/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Sun & Moon",
+        "printedTotal": 149,
+        "ptcgoCode": "SUM",
+        "releaseDate": "2017/02/03",
+        "series": "Sun & Moon",
+        "total": 173,
+        "updatedAt": "2019/04/10 19:59:00"
+    },
+    {
+        "id": "smp",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/smp/symbol.png",
+            "logo": "https://images.pokemontcg.io/smp/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "SM Black Star Promos",
+        "printedTotal": 248,
+        "ptcgoCode": "PR-SM",
+        "releaseDate": "2017/02/03",
+        "series": "Sun & Moon",
+        "total": 250,
+        "updatedAt": "2020/05/01 16:06:00"
+    },
+    {
+        "id": "sm2",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/sm2/symbol.png",
+            "logo": "https://images.pokemontcg.io/sm2/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Guardians Rising",
+        "printedTotal": 145,
+        "ptcgoCode": "GRI",
+        "releaseDate": "2017/05/05",
+        "series": "Sun & Moon",
+        "total": 180,
+        "updatedAt": "2021/07/15 11:30:00"
+    },
+    {
+        "id": "sm3",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/sm3/symbol.png",
+            "logo": "https://images.pokemontcg.io/sm3/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Burning Shadows",
+        "printedTotal": 147,
+        "ptcgoCode": "BUS",
+        "releaseDate": "2017/08/05",
+        "series": "Sun & Moon",
+        "total": 177,
+        "updatedAt": "2019/02/19 23:25:00"
+    },
+    {
+        "id": "sm35",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/sm35/symbol.png",
+            "logo": "https://images.pokemontcg.io/sm35/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Shining Legends",
+        "printedTotal": 73,
+        "ptcgoCode": "SLG",
+        "releaseDate": "2017/10/06",
+        "series": "Sun & Moon",
+        "total": 81,
+        "updatedAt": "2019/02/19 23:25:00"
+    },
+    {
+        "id": "sm4",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/sm4/symbol.png",
+            "logo": "https://images.pokemontcg.io/sm4/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Crimson Invasion",
+        "printedTotal": 111,
+        "ptcgoCode": "CIN",
+        "releaseDate": "2017/11/03",
+        "series": "Sun & Moon",
+        "total": 126,
+        "updatedAt": "2019/02/19 23:25:00"
+    },
+    {
+        "id": "sm5",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/sm5/symbol.png",
+            "logo": "https://images.pokemontcg.io/sm5/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Ultra Prism",
+        "printedTotal": 156,
+        "ptcgoCode": "UPR",
+        "releaseDate": "2018/02/02",
+        "series": "Sun & Moon",
+        "total": 178,
+        "updatedAt": "2019/02/19 23:25:00"
+    },
+    {
+        "id": "sm6",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/sm6/symbol.png",
+            "logo": "https://images.pokemontcg.io/sm6/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Forbidden Light",
+        "printedTotal": 131,
+        "ptcgoCode": "FLI",
+        "releaseDate": "2018/05/04",
+        "series": "Sun & Moon",
+        "total": 150,
+        "updatedAt": "2019/02/19 23:25:00"
+    },
+    {
+        "id": "sm7",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/sm7/symbol.png",
+            "logo": "https://images.pokemontcg.io/sm7/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Celestial Storm",
+        "printedTotal": 168,
+        "ptcgoCode": "CES",
+        "releaseDate": "2018/08/03",
+        "series": "Sun & Moon",
+        "total": 187,
+        "updatedAt": "2019/02/19 23:25:00"
+    },
+    {
+        "id": "sm75",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/sm75/symbol.png",
+            "logo": "https://images.pokemontcg.io/sm75/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Dragon Majesty",
+        "printedTotal": 70,
+        "ptcgoCode": "DRM",
+        "releaseDate": "2018/09/07",
+        "series": "Sun & Moon",
+        "total": 80,
+        "updatedAt": "2018/10/01 21:54:00"
+    },
+    {
+        "id": "sm8",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/sm8/symbol.png",
+            "logo": "https://images.pokemontcg.io/sm8/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Lost Thunder",
+        "printedTotal": 214,
+        "ptcgoCode": "LOT",
+        "releaseDate": "2018/11/02",
+        "series": "Sun & Moon",
+        "total": 240,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "sm9",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/sm9/symbol.png",
+            "logo": "https://images.pokemontcg.io/sm9/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Team Up",
+        "printedTotal": 181,
+        "ptcgoCode": "TEU",
+        "releaseDate": "2019/02/01",
+        "series": "Sun & Moon",
+        "total": 198,
+        "updatedAt": "2021/09/01 05:37:00"
+    },
+    {
+        "id": "det1",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/det1/symbol.png",
+            "logo": "https://images.pokemontcg.io/det1/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Detective Pikachu",
+        "printedTotal": 18,
+        "ptcgoCode": "DET",
+        "releaseDate": "2019/04/05",
+        "series": "Sun & Moon",
+        "total": 18,
+        "updatedAt": "2021/09/01 05:37:00"
+    },
+    {
+        "id": "sm10",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+            "logo": "https://images.pokemontcg.io/sm10/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Unbroken Bonds",
+        "printedTotal": 214,
+        "ptcgoCode": "UNB",
+        "releaseDate": "2019/05/03",
+        "series": "Sun & Moon",
+        "total": 235,
+        "updatedAt": "2021/09/01 05:37:00"
+    },
+    {
+        "id": "sm11",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/sm11/symbol.png",
+            "logo": "https://images.pokemontcg.io/sm11/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Unified Minds",
+        "printedTotal": 236,
+        "ptcgoCode": "UNM",
+        "releaseDate": "2019/08/02",
+        "series": "Sun & Moon",
+        "total": 260,
+        "updatedAt": "2021/09/01 05:37:00"
+    },
+    {
+        "id": "sm115",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/sm115/symbol.png",
+            "logo": "https://images.pokemontcg.io/sm115/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Hidden Fates",
+        "printedTotal": 68,
+        "ptcgoCode": "HIF",
+        "releaseDate": "2019/08/23",
+        "series": "Sun & Moon",
+        "total": 69,
+        "updatedAt": "2021/09/01 05:37:00"
+    },
+    {
+        "id": "sma",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/sma/symbol.png",
+            "logo": "https://images.pokemontcg.io/sma/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Shiny Vault",
+        "printedTotal": 94,
+        "ptcgoCode": null,
+        "releaseDate": "2019/08/23",
+        "series": "Sun & Moon",
+        "total": 94,
+        "updatedAt": "2021/09/01 05:37:00"
+    },
+    {
+        "id": "mcd19",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/mcd19/symbol.png",
+            "logo": "https://images.pokemontcg.io/mcd19/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "McDonald's Collection 2019",
+        "printedTotal": 12,
+        "ptcgoCode": null,
+        "releaseDate": "2019/10/15",
+        "series": "Other",
+        "total": 12,
+        "updatedAt": "2021/09/01 05:37:00"
+    },
+    {
+        "id": "sm12",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+            "logo": "https://images.pokemontcg.io/sm12/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "Cosmic Eclipse",
+        "printedTotal": 236,
+        "ptcgoCode": "CEC",
+        "releaseDate": "2019/11/01",
+        "series": "Sun & Moon",
+        "total": 272,
+        "updatedAt": "2021/09/01 05:37:00"
+    },
+    {
+        "id": "swshp",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/swshp/symbol.png",
+            "logo": "https://images.pokemontcg.io/swshp/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": "Legal"
+        },
+        "name": "SWSH Black Star Promos",
+        "printedTotal": 184,
+        "ptcgoCode": "PR-SW",
+        "releaseDate": "2019/11/15",
+        "series": "Sword & Shield",
+        "total": 181,
+        "updatedAt": "2021/12/15 14:46:00"
+    },
+    {
+        "id": "swsh1",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+            "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": "Legal"
+        },
+        "name": "Sword & Shield",
+        "printedTotal": 202,
+        "ptcgoCode": "SSH",
+        "releaseDate": "2020/02/07",
+        "series": "Sword & Shield",
+        "total": 216,
+        "updatedAt": "2020/08/14 09:35:00"
+    },
+    {
+        "id": "swsh2",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/swsh2/symbol.png",
+            "logo": "https://images.pokemontcg.io/swsh2/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": "Legal"
+        },
+        "name": "Rebel Clash",
+        "printedTotal": 192,
+        "ptcgoCode": "RCL",
+        "releaseDate": "2020/05/01",
+        "series": "Sword & Shield",
+        "total": 209,
+        "updatedAt": "2020/09/25 10:09:00"
+    },
+    {
+        "id": "swsh3",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/swsh3/symbol.png",
+            "logo": "https://images.pokemontcg.io/swsh3/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": "Legal"
+        },
+        "name": "Darkness Ablaze",
+        "printedTotal": 189,
+        "ptcgoCode": "DAA",
+        "releaseDate": "2020/08/14",
+        "series": "Sword & Shield",
+        "total": 201,
+        "updatedAt": "2020/10/25 13:45:00"
+    },
+    {
+        "id": "swsh35",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/swsh35/symbol.png",
+            "logo": "https://images.pokemontcg.io/swsh35/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": "Legal"
+        },
+        "name": "Champion's Path",
+        "printedTotal": 73,
+        "ptcgoCode": "CPA",
+        "releaseDate": "2020/09/25",
+        "series": "Sword & Shield",
+        "total": 80,
+        "updatedAt": "2020/10/25 13:45:00"
+    },
+    {
+        "id": "swsh4",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/swsh4/symbol.png",
+            "logo": "https://images.pokemontcg.io/swsh4/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": "Legal"
+        },
+        "name": "Vivid Voltage",
+        "printedTotal": 185,
+        "ptcgoCode": "VIV",
+        "releaseDate": "2020/11/13",
+        "series": "Sword & Shield",
+        "total": 203,
+        "updatedAt": "2020/11/13 16:20:00"
+    },
+    {
+        "id": "swsh45",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/swsh45/symbol.png",
+            "logo": "https://images.pokemontcg.io/swsh45/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": "Legal"
+        },
+        "name": "Shining Fates",
+        "printedTotal": 72,
+        "ptcgoCode": "SHF",
+        "releaseDate": "2021/02/19",
+        "series": "Sword & Shield",
+        "total": 73,
+        "updatedAt": "2021/02/24 16:17:00"
+    },
+    {
+        "id": "swsh45sv",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/swsh45sv/symbol.png",
+            "logo": "https://images.pokemontcg.io/swsh45sv/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": "Legal"
+        },
+        "name": "Shiny Vault",
+        "printedTotal": 122,
+        "ptcgoCode": "SHF",
+        "releaseDate": "2021/02/19",
+        "series": "Sword & Shield",
+        "total": 122,
+        "updatedAt": "2021/02/24 16:17:00"
+    },
+    {
+        "id": "swsh5",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/swsh5/symbol.png",
+            "logo": "https://images.pokemontcg.io/swsh5/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": "Legal"
+        },
+        "name": "Battle Styles",
+        "printedTotal": 163,
+        "ptcgoCode": "BST",
+        "releaseDate": "2021/03/19",
+        "series": "Sword & Shield",
+        "total": 183,
+        "updatedAt": "2021/03/19 15:12:00"
+    },
+    {
+        "id": "swsh6",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+            "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": "Legal"
+        },
+        "name": "Chilling Reign",
+        "printedTotal": 198,
+        "ptcgoCode": "CRE",
+        "releaseDate": "2021/06/18",
+        "series": "Sword & Shield",
+        "total": 233,
+        "updatedAt": "2021/06/18 12:12:00"
+    },
+    {
+        "id": "swsh7",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
+            "logo": "https://images.pokemontcg.io/swsh7/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": "Legal"
+        },
+        "name": "Evolving Skies",
+        "printedTotal": 203,
+        "ptcgoCode": "EVS",
+        "releaseDate": "2021/08/27",
+        "series": "Sword & Shield",
+        "total": 237,
+        "updatedAt": "2021/08/27 10:17:00"
+    },
+    {
+        "id": "cel25",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/cel25/symbol.png",
+            "logo": "https://images.pokemontcg.io/cel25/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": "Legal"
+        },
+        "name": "Celebrations",
+        "printedTotal": 25,
+        "ptcgoCode": "CEL",
+        "releaseDate": "2021/10/08",
+        "series": "Sword & Shield",
+        "total": 25,
+        "updatedAt": "2021/10/11 10:17:00"
+    },
+    {
+        "id": "cel25c",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/cel25c/symbol.png",
+            "logo": "https://images.pokemontcg.io/cel25c/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Celebrations: Classic Collection",
+        "printedTotal": 25,
+        "ptcgoCode": "CEL",
+        "releaseDate": "2021/10/08",
+        "series": "Sword & Shield",
+        "total": 25,
+        "updatedAt": "2021/10/12 18:57:00"
+    },
+    {
+        "id": "mcd14",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/mcd14/symbol.png",
+            "logo": "https://images.pokemontcg.io/mcd14/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "McDonald's Collection 2014",
+        "printedTotal": 12,
+        "ptcgoCode": null,
+        "releaseDate": "2014/05/23",
+        "series": "Other",
+        "total": 12,
+        "updatedAt": "2021/03/21 12:30:00"
+    },
+    {
+        "id": "mcd15",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/mcd15/symbol.png",
+            "logo": "https://images.pokemontcg.io/mcd15/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "McDonald's Collection 2015",
+        "printedTotal": 12,
+        "ptcgoCode": null,
+        "releaseDate": "2015/11/27",
+        "series": "Other",
+        "total": 12,
+        "updatedAt": "2021/09/21 06:10:00"
+    },
+    {
+        "id": "mcd17",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/mcd17/symbol.png",
+            "logo": "https://images.pokemontcg.io/mcd17/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "McDonald's Collection 2017",
+        "printedTotal": 12,
+        "ptcgoCode": null,
+        "releaseDate": "2017/11/07",
+        "series": "Other",
+        "total": 12,
+        "updatedAt": "2021/09/21 06:34:00"
+    },
+    {
+        "id": "mcd18",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/mcd18/symbol.png",
+            "logo": "https://images.pokemontcg.io/mcd18/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "McDonald's Collection 2018",
+        "printedTotal": 12,
+        "ptcgoCode": null,
+        "releaseDate": "2018/10/16",
+        "series": "Other",
+        "total": 12,
+        "updatedAt": "2021/09/21 06:52:00"
+    },
+    {
+        "id": "mcd21",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/mcd21/symbol.png",
+            "logo": "https://images.pokemontcg.io/mcd21/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": null
+        },
+        "name": "McDonald's Collection 2021",
+        "printedTotal": 25,
+        "ptcgoCode": null,
+        "releaseDate": "2021/02/09",
+        "series": "Other",
+        "total": 25,
+        "updatedAt": "2021/09/07 13:00:00"
+    },
+    {
+        "id": "bp",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/bp/symbol.png",
+            "logo": "https://images.pokemontcg.io/bp/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": null,
+            "standard": null
+        },
+        "name": "Best of Game",
+        "printedTotal": 9,
+        "ptcgoCode": "BP",
+        "releaseDate": "2002/12/01",
+        "series": "Other",
+        "total": 9,
+        "updatedAt": "2021/10/16 09:52:00"
+    },
+    {
+        "id": "swsh8",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/swsh8/symbol.png",
+            "logo": "https://images.pokemontcg.io/swsh8/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": "Legal"
+        },
+        "name": "Fusion Strike",
+        "printedTotal": 264,
+        "ptcgoCode": "FST",
+        "releaseDate": "2021/11/12",
+        "series": "Sword & Shield",
+        "total": 284,
+        "updatedAt": "2021/11/12 07:32:00"
+    },
+    {
+        "id": "fut20",
+        "images": {
+            "symbol": "https://images.pokemontcg.io/fut20/symbol.png",
+            "logo": "https://images.pokemontcg.io/fut20/logo.png"
+        },
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal",
+            "standard": "Legal"
+        },
+        "name": "Pok\u00e9mon Futsal Collection",
+        "printedTotal": 5,
+        "ptcgoCode": "FUT20",
+        "releaseDate": "2020/09/11",
+        "series": "Other",
+        "total": 5,
+        "updatedAt": "2021/11/12 06:03:00"
+    }
+]
