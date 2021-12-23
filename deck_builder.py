@@ -17,8 +17,24 @@ class Deck:
     with open("api/cards.json", "r") as file:
         CARDS = json.load(file)
 
-    def __init__(self) -> None:
+    def __init__(self, seed_1: dict=None, seed_2: dict=None) -> None:
         self.deck = []
+
+        if seed_1 is None:
+            stage_2 = [card for card in self.CARDS
+                    if card["subtypes"] is not None
+                    and "Stage 2" in card["subtypes"]]
+            seed_1 = random.choice(stage_2)
+        self.seed_1 = seed_1
+
+        if seed_2 is None:
+            stage_1 = [card for card in self.CARDS
+                    if card["types"] is not None
+                    and self.seed_1["types"][0] in card["types"]
+                    and card["subtypes"] is not None
+                    and "Stage 1" in card["subtypes"]]
+            seed_2 = random.choice(stage_1)
+        self.seed_2 = seed_2
 
     def add_seed(self, seed: dict) -> None:
         """Fill the deck with four cards based on a seed."""
@@ -40,29 +56,16 @@ class Deck:
                         if card["name"] == evolution["evolvesFrom"]]
                 self.deck.append(random.choice(seedlings))
 
-    def generate_deck(self, seed: dict=None, secondary_seed: dict=None) -> None:
+    def generate_deck(self) -> None:
         """Generate a deck given an optional seed and secondary seed."""
-        if seed is None:
-            stage_2 = [card for card in self.CARDS
-                    if card["subtypes"] is not None
-                    and "Stage 2" in card["subtypes"]]
-            seed = random.choice(stage_2)
-
-        if secondary_seed is None:
-            stage_1 = [card for card in self.CARDS
-                    if card["types"] is not None
-                    and self.seed["types"][0] in card["types"]
-                    and card["subtypes"] is not None
-                    and "Stage 1" in card["subtypes"]]
-            secondary_seed = random.choice(stage_1)
-
-        self.add_seed(seed)
-        self.add_seed(secondary_seed)
+        self.add_seed(self.seed_1)
+        self.add_seed(self.seed_2)
+        self.add_prevolutions()
 
     def print(self) -> None:
         """Downloads the deck as a pdf to the current directory."""
 
-        path_name = self.seed["name"] + "_" + str(round(time.time() * 10000))
+        path_name = self.seed_1["name"] + "_" + str(round(time.time() * 10000))
 
         # download the deck images to a folder
         os.makedirs(path_name)
@@ -96,9 +99,7 @@ def main() -> None:
         get_all()
 
     deck = Deck()
-    deck.add_seed()
-    deck.add_second_line()
-    deck.add_prevolutions()
+    deck.generate_deck()
     deck.print()
 
 
