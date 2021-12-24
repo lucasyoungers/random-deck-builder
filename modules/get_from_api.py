@@ -1,6 +1,6 @@
 import json
 from pokemontcgsdk import Card, Set, Type, Supertype, Subtype, Rarity, RestClient
-from secrets import API_KEY
+from .secrets import API_KEY
 
 RestClient.configure(API_KEY)
 
