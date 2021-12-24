@@ -1,6 +1,8 @@
+#!/usr/bin/env python3
+
 import json
 from pokemontcgsdk import Card, Set, Type, Supertype, Subtype, Rarity, RestClient
-from .secrets import API_KEY
+from .secret import API_KEY
 
 RestClient.configure(API_KEY)
 

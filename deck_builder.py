@@ -1,7 +1,8 @@
+#!/usr/bin/env python3
+
 import math
 import random
 import os
-import shutil
 import time
 import json
 
@@ -10,12 +11,11 @@ from pokemontcgsdk import RestClient
 
 from modules.get_from_api import *
 from modules.card_printer import *
-from modules.secrets import API_KEY
+from modules.secret import API_KEY
 
 
 """
 TODO:
-- rewrite download and print code such that pdf maintains sorted order
 - revamp add_trainers() such that it adds more intelligent card chocies
 """
 
@@ -138,27 +138,33 @@ class Deck:
     def print(self) -> None:
         """Downloads the deck as a pdf to the current directory."""
 
-        path_name = self.seed_1["name"] + "_" + str(round(time.time() * 10000))
+        images = [card["images"]["large"] for card in self.deck]
+        # print(images)
+        # quit()
+        name = self.seed_1["name"] + "_" + str(round(time.time() * 10000))
+        print_pdf(images, name)
 
-        # download the deck images to a folder
-        os.makedirs(path_name)
-        for card in self.deck:
-            self.download(card["images"]["large"], path_name, card["name"])
+        # path_name = self.seed_1["name"] + "_" + str(round(time.time() * 10000))
+
+        # # download the deck images to a folder
+        # os.makedirs(path_name)
+        # for card in self.deck:
+        #     self.download(card["images"]["large"], path_name, card["name"])
         
-        # generate a pdf of the deck in the same folder
-        print_files(get_files(path_name), path_name)
+        # # generate a pdf of the deck in the same folder
+        # print_pdf(get_files(path_name), path_name)
 
-        # delete the card images after being downloaded
-        shutil.rmtree(path_name)
+        # # delete the card images after being downloaded
+        # shutil.rmtree(path_name)
 
-    @staticmethod
-    def download(url: str, dirname: str, name: str) -> None:
-        """Download a file from a url to the current directory."""
-        r = requests.get(url)
-        ext = url[url.rindex('.'):] # .png, .jpg, etc
-        timestamp = round(time.time() * 10000)
-        with open(f"{dirname}/{name}_{timestamp}{ext}", "wb") as file:
-            file.write(r.content)
+    # @staticmethod
+    # def download(url: str, dirname: str, name: str) -> None:
+    #     """Download a file from a url to the current directory."""
+    #     r = requests.get(url)
+    #     ext = url[url.rindex('.'):] # .png, .jpg, etc
+    #     timestamp = round(time.time() * 10000)
+    #     with open(f"{dirname}/{name}_{timestamp}{ext}", "wb") as file:
+    #         file.write(r.content)
 
     def __str__(self) -> str:
         return str([card["name"] + "_" + card["id"] for card in self.deck])

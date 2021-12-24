@@ -1,5 +1,5 @@
 # ignore secrets file
-secrets.py
+secret.py
 *.pdf
 __pycache__/
 .DS_Store
