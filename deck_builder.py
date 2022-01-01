@@ -76,7 +76,7 @@ class Deck:
 
     def __add_trainers(self):
         """Fill the deck with pseudo-random trainers."""
-        get_trainers = lambda subtype: [card for card in self.cards
+        def get_trainers(subtype): return [card for card in self.cards
                 if card["subtypes"] and subtype in card["subtypes"]]
 
         supporters = get_trainers("Supporter")
